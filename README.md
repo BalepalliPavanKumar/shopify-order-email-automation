@@ -29,11 +29,26 @@ Immediate Email
 ↓
 Discount Email
 
+
+
 ## Technologies
 
 - Pipedream
 - Gmail Integration
 - Shopify Webhooks
+
+Execution Result
+
+The workflow was successfully tested using the sample payload.
+
+Results:
+
+Webhook received successfully
+Conditions validated successfully
+Immediate onboarding email sent
+5-minute delay executed successfully
+Discount email sent successfully
+  
 
 ## Test Payload
 
